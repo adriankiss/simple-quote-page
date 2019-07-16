@@ -1,1 +1,0 @@
-Simple page for practice 
