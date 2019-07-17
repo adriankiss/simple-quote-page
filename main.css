@@ -1,0 +1,22 @@
+body {
+  width: 100%;
+  height: 100vh;
+  background: url(assets/freedom.jpg) no-repeat center;
+  background-size: cover;
+  color: #333;
+}
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    font-weight: 100;
+}
+p {
+    display: block; 
+}
+.wrapper {
+  width: 90%;
+  text-align: center; 
+  padding-top: 4rem;
+  margin: 0 auto;
+}
